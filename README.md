@@ -1,2 +1,2 @@
 # classwork05
-[view my favorite things](My Favorite Things.html)
+[view my favorite things](My_Favorite_Things.html)
